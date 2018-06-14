@@ -1,15 +1,21 @@
-title: Paper Title
-tagline: Author, Coauthor
+title: Geometric Consistency for Self-Supervised End-to-End Visual Odometry
+tagline: Ganesh Iyer<sup>1*</sup>, J. Krishna Murthy<sup>2*</sup>, Gunshi Gupta<sup>1</sup>, K. Madhava Krishna<sup>1</sup>, Liam Paull<sup>2</sup> <br />
+         1st International Workshop on Deep Learning for Visual SLAM, CVPR 2018 <br />
+
+affiliation: <sup>*</sup> The first two authors contributed equally to this work. <br />
+            <sup>1</sup> International Institute of Information Technology Hyderabad, India <br />
+            <sup>2</sup> MILA and DIRO, Universite de Montreal, Canada <br />
 # When building locally, put an empty string. Otherwise, put "/your-repo-name"
 # (the "/" is important)
-baseurl: "/mila-paper-webpage"
+baseurl: "/CTCNet-release"
 # arXiv ID (as in "https://arxiv.org/abs/[arXiv id]")
-arxiv: ""
-repo:  "https://github.com/mila-udem/mila-paper-webpage"
+arxiv: "1804.03789"
+repo:  "https://github.com/krrish94/CTCNet-release"
+paperlink: "http://openaccess.thecvf.com/CVPR2018_workshops/content_CVPR_2018/papers/w9/Iyer_Geometric_Consistency_for_CVPR_2018_paper.pdf"
 
 author:
-  name: Contact name
-  url: "https://google.com"
+  name: Krishna Murthy
+  url: "https://krrish94.github.io"
 
 # Leave this as is
 markdown: kramdown
