@@ -7,4 +7,4 @@ The page is currently under construction. You can expect it to be up by 17th Jun
 
 ### Contact
 
-Contact krrish94
+Contact [krrish94](https://krrish94.github.io)
