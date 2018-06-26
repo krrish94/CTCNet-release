@@ -7,12 +7,12 @@ affiliation: <sup>*</sup> The first two authors contributed equally to this work
             <sup>2</sup> MILA and DIRO, Universite de Montreal, Canada <br />
 # When building locally, put an empty string. Otherwise, put "/your-repo-name"
 # (the "/" is important)
-baseurl: "/CTCNet-release"
-# baseurl: ""
+# baseurl: "/CTCNet-release"
+baseurl: ""
 # arXiv ID (as in "https://arxiv.org/abs/[arXiv id]")
 arxiv: "1804.03789"
 repo:  "https://github.com/krrish94/CTCNet-release"
-paperlink: "http://openaccess.thecvf.com/CVPR2018_workshops/content_CVPR_2018/papers/w9/Iyer_Geometric_Consistency_for_CVPR_2018_paper.pdf"
+paperlink: "http://openaccess.thecvf.com/content_cvpr_2018_workshops/papers/w9/Iyer_Geometric_Consistency_for_CVPR_2018_paper.pdf"
 
 author:
   name: Krishna Murthy
