@@ -1,8 +1,8 @@
 ## Geometric Consistency for Self-Supervised End-to-End Visual Odometry
 
-This is the webpage for the CVPR 2018 workshop paper.
+This is a historical repo for our CTCNet paper at the CVPR 2018 workshop on deep learning for visual SLAM.
 
-The page is currently under construction. You can expect it to be up by 17th June 2018.
+This is now EOL'ed and no longer supported/updated.
 
 
 ### Contact
